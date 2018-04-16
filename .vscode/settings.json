@@ -1,0 +1,7 @@
+{
+    "go.gopath": {
+        "type": "string",
+        "default": null,
+        "description": "Specifies the GOPATH to use when no environment variable is set."
+    }
+}
